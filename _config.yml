@@ -22,6 +22,10 @@ creative-commons:
   cc-by: #yes
   cc-by-nc: yes
 
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
+
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
 
